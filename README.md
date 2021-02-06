@@ -17,4 +17,5 @@ write business logic.
 ## questions
 1. Security Questions? Do we have to use some security framework to monitor some key functions like sign in, log out, sign up?
 2. What kind of database do we want to use?
-3. I want to make our backend to a pure RestfulAPI, which means reading frontend page should not be in our duty, so rendring pages is not our job right?
+3. I want to make our backend to a pure RestfulAPI, which means reading frontend page should not be in our duty, so rendering pages is not our job right?
+4. Since we have decided to add "sign in" function in our system, which means we will definitely use database, what kind of database we are going to use?
